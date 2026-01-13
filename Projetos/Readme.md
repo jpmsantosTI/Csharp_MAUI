@@ -1,5 +1,5 @@
 # Projetos
-
+[copilot pense no título do commit em português Brasil]
 O código dos projetos foram feitos usando o aplicativo C# Shell no Android.
 
 ## Como Colocar o projeto na IDE
@@ -7,7 +7,8 @@ O código dos projetos foram feitos usando o aplicativo C# Shell no Android.
 - Entre na IDE
 - Vá na opção abrir arquivo/projeto
 - Escolha o arquivo .csproj
-- Ele importará todos os arquivos do projeto. *desde que estejam na mesma pasta*
+- Ele importará todos os arquivos do projeto.
+***desde que estejam na mesma pasta***
 
 ## Como Executar o Projeto
 - Baixe o Projeto
