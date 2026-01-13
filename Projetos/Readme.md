@@ -1,5 +1,5 @@
 # Projetos
-O código dos projetos foram feitos usando o aplicativo C# Shell no Android[.](# Copilot: sugerir nome do commit em português)
+O código dos projetos foram feitos usando o aplicativo C# Shell no Android[.](Copilot: sugerir nome do commit em português)
 ## Como Colocar o projeto na IDE
 - Baixe todos os arquivos do projeto
 - Entre na IDE
